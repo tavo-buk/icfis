@@ -12,3 +12,5 @@ Links importantes:
 Visualização das linhas de campo:
 https://www.numbercrunch.de/blog/2013/05/visualizing-streamlines/
 https://pythonmatplotlibtips.blogspot.com/2017/12/draw-beautiful-electric-field-lines.html
+
+
